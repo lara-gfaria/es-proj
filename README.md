@@ -1,5 +1,5 @@
 # ES - Project
-Project of the Software Engineer course @ IST - 2024/25
+Project Software Engineer | IST - 2024/25
 
 ### Objective
 Build a website using SpringBoot and Vue.js that aims to connect charities and non-profit organizations with volunteers
@@ -66,4 +66,4 @@ docker compose up e2e-run
 ```
 
 ### Made with:
-- [Lara Faria](https://github.com/lara-gfaria)
+- [Tiago Santos](https://github.com/tiago-gsantos)
